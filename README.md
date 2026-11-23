@@ -1,40 +1,39 @@
-Feature
-person_id
-age
-gender
-nationality
-first_generation
-disability_status 
-family_income_level 
-scholarship_holder
-tuition_up_to_date 
-part_time_job 
-weekly_work_hours
-course_type 
-study_mode 
-semester 
-international_student
-admission_grade 
-previous_qualification_grade 
-units_enrolled
-units_passed 
-units_failed 
-gpa_semester_1 
-gpa_semester_2
-attendance_rate 
-assignments_submitted_rate
-library_visits_per_month 
-lms_logins_per_week
-extracurricular_activities 
-missed_deadlines 
-stress_level
-mental_health_support 
-satisfaction_score 
-commute_time_mins
-sleep_hours 
+Features:
+person_id |
+age |
+gender |
+nationality |
+first_generation |
+disability_status | 
+family_income_level | 
+scholarship_holder |
+tuition_up_to_date |  
+part_time_job | 
+weekly_work_hours |
+course_type | 
+study_mode | 
+semester | 
+international_student |
+admission_grade | 
+previous_qualification_grade | 
+units_enrolled |
+units_passed | 
+units_failed | 
+gpa_semester_1 | 
+gpa_semester_2 |
+attendance_rate | 
+assignments_submitted_rate |
+library_visits_per_month | 
+lms_logins_per_week |
+extracurricular_activities | 
+missed_deadlines | 
+stress_level |
+mental_health_support | 
+satisfaction_score | 
+commute_time_mins |
+sleep_hours | 
 --------------------------------------------------------------------
-Target value
-dropout
+Target: dropout
 --------------------------------------------------------------------
 Training set = 70%
 Test set = 30%
